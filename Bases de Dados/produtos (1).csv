@@ -1,0 +1,51 @@
+produto_id,nome_produto,categoria,fornecedor,estoque_disponivel
+2001,Produto 2001,Acessórios,Wood-Barber,64
+2002,Produto 2002,Tablets,Fields and Sons,82
+2003,Produto 2003,Notebooks,Henry-Brown,55
+2004,Produto 2004,Acessórios,"Hernandez, Pham and Moreno",95
+2005,Produto 2005,Câmeras,Williams-Garcia,84
+2006,Produto 2006,Tablets,Carpenter Ltd,40
+2007,Produto 2007,Smartwatches,"Williams, Preston and Smith",41
+2008,Produto 2008,Celulares,"Fox, Gutierrez and Johnson",92
+2009,Produto 2009,Monitores,Hernandez-Cole,94
+2010,Produto 2010,Consoles,Carlson-Hunter,15
+2011,Produto 2011,Acessórios,"Ford, Matthews and Davis",30
+2012,Produto 2012,Tablets,Robertson Inc,80
+2013,Produto 2013,Tablets,Martin-Norman,63
+2014,Produto 2014,Tablets,Wilkerson-Garcia,36
+2015,Produto 2015,Acessórios,"Harris, Cox and Valenzuela",89
+2016,Produto 2016,Notebooks,"Sims, Rowland and Young",95
+2017,Produto 2017,Smartwatches,"Stephens, Macdonald and Garrett",19
+2018,Produto 2018,Celulares,Gamble-Jacobson,31
+2019,Produto 2019,Celulares,Wheeler-Hill,28
+2020,Produto 2020,Câmeras,"Nguyen, Camacho and Shaw",84
+2021,Produto 2021,Monitores,"Hurst, Bowman and Wilcox",90
+2022,Produto 2022,Monitores,"Burke, Frost and Clark",11
+2023,Produto 2023,Câmeras,Flores-Lee,53
+2024,Produto 2024,Tablets,Ellis-Gibbs,88
+2025,Produto 2025,Smartwatches,Romero PLC,38
+2026,Produto 2026,Câmeras,Lopez-Madden,39
+2027,Produto 2027,Smartwatches,Graham Inc,17
+2028,Produto 2028,Celulares,Alexander and Sons,20
+2029,Produto 2029,Acessórios,Ford-Buck,92
+2030,Produto 2030,Tablets,Melendez-Payne,92
+2031,Produto 2031,Tablets,Stein-Perry,61
+2032,Produto 2032,Notebooks,Orr-Hickman,51
+2033,Produto 2033,Smartwatches,Kirk-Alvarado,99
+2034,Produto 2034,Celulares,"Thompson, Phillips and Hayes",64
+2035,Produto 2035,Consoles,Mueller and Sons,70
+2036,Produto 2036,Notebooks,Bell-Hicks,95
+2037,Produto 2037,Smartwatches,Johnson Ltd,89
+2038,Produto 2038,Tablets,Perkins and Sons,29
+2039,Produto 2039,Acessórios,Reynolds-Durham,98
+2040,Produto 2040,Monitores,"Roberts, Garcia and Harrell",64
+2041,Produto 2041,Câmeras,Smith Inc,92
+2042,Produto 2042,Consoles,Watson-Perez,14
+2043,Produto 2043,Notebooks,Taylor Ltd,19
+2044,Produto 2044,Celulares,Hernandez-Reyes,79
+2045,Produto 2045,Câmeras,"Carroll, Cooper and Sanchez",18
+2046,Produto 2046,Smartwatches,"Robinson, Roberts and Simon",45
+2047,Produto 2047,Celulares,Bailey-Perez,79
+2048,Produto 2048,Acessórios,Anderson Ltd,53
+2049,Produto 2049,Consoles,"Williams, Newton and Richardson",79
+2050,Produto 2050,Acessórios,Thompson-Smith,55
